@@ -1,0 +1,57 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+  background-color: rgb(7, 0, 6);
+  color:white;
+}
+h1,h2,h3{
+  margin: 3%;
+  padding: 2%;
+  border: 0px solid blue;
+  border-radius: 45px;
+  background-color: rgba(51, 150, 153, 0.24);
+  text-align: center;
+
+}
+h2, h3{
+text-align: left;
+}
+
+a{
+  margin:2%;
+  padding: 1%;
+  color:rgb(255, 255, 255);
+  border: 0px solid red;
+  border-radius: 15px;
+  background-color:darkviolet;
+  font-size: large;
+  font-weight: 700;
+  text-decoration: none;
+ 
+}
+
+a:hover{
+  background-color: rgb(24, 49, 95);
+  color:gold;
+  border-radius: 5px;
+}
+
+section{
+  margin: 25px 5%;
+  padding: 1%;
+
+}
+.horario_clases, .contenido{
+  margin:3%;
+  padding: 2%;
+  color:rgb(255, 255, 255);
+  border: 0px solid rgb(12, 70, 60);
+  border-radius: 15px;
+  background-color:rgba(65, 118, 134, 0.534);
+  font-size: large;
+  font-weight: 700;
+  text-decoration: none;
+} 
